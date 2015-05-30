@@ -86,6 +86,6 @@ It's easy to interact with the Toolbar introduced in Android 5.0 Lollipop and ma
 
 项目地址：[https://github.com/ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
 
-![](http://git.oschina.net/zhyihui/android-open-projects/raw/master/screenshots/ObservableScrollView_1.gif)![](http://i1.tietuku.com/bb8e294d80f85abe.gif)![](http://i1.tietuku.com/6a0ce1081f864b13.gif)![](http://i1.tietuku.com/1413ac71e6958f89.gif)
+![](http://git.oschina.net/zhyihui/android-open-projects/raw/master/screenshots/ObservableScrollView_1.gif)![](http://git.oschina.net/zhyihui/android-open-projects/raw/master/screenshots/ObservableScrollView_2.gif)![](http://git.oschina.net/zhyihui/android-open-projects/raw/master/screenshots/ObservableScrollView_3.gif)![](http://git.oschina.net/zhyihui/android-open-projects/raw/master/screenshots/ObservableScrollView_4.gif)
 
 更多示例动态图片请到该项目的Github主页上查看。
