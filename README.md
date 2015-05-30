@@ -76,3 +76,16 @@ ListView及GridView item以特殊动画效果进入屏幕，效果包括grow、c
 项目地址：[https://github.com/astuetz/PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
 
 ![](http://7xj445.com1.z0.glb.clouddn.com/PagerSlidingTabStrip.png) ![](http://7xj445.com1.z0.glb.clouddn.com/PagerSlidingTabStrip_2.png)
+
+###7、[Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
+
+>Android library to observe scroll events on scrollable views.
+It's easy to interact with the Toolbar introduced in Android 5.0 Lollipop and may be helpful to implement look and feel of Material Design apps.
+
+监听滚动视图滚动事件的库，帮助与Toolbar的交互动效处理与Material Design的实现;支持ListView、GridView、RecyclerView等组件。
+
+项目地址：[https://github.com/ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
+
+![](http://git.oschina.net/zhyihui/android-open-projects/raw/master/screenshots/ObservableScrollView_1.gif)![](http://i1.tietuku.com/bb8e294d80f85abe.gif)![](http://i1.tietuku.com/6a0ce1081f864b13.gif)![](http://i1.tietuku.com/1413ac71e6958f89.gif)
+
+更多示例动态图片请到该项目的Github主页上查看。
