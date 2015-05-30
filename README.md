@@ -66,3 +66,13 @@ ListView及GridView item以特殊动画效果进入屏幕，效果包括grow、c
 项目Demo效果可以直接到这里查看：[stroll.js](http://lab.hakim.se/scroll-effects)
 
 项目地址：[https://github.com/twotoasters/JazzyListView](https://github.com/twotoasters/JazzyListView)
+
+###6、[PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
+
+>An interactive indicator to navigate between the different pages of a ViewPager
+
+配合ViewPager使用的Indicator(指示器)，支持ViewPager与Indicator联动；可以定制指示器颜色、Tab字体等属性。
+
+项目地址：[https://github.com/astuetz/PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
+
+![](http://7xj445.com1.z0.glb.clouddn.com/PagerSlidingTabStrip.png) ![](http://7xj445.com1.z0.glb.clouddn.com/PagerSlidingTabStrip_2.png)
