@@ -66,3 +66,5 @@ ListView及GridView item以特殊动画效果进入屏幕，效果包括grow、c
 项目Demo效果可以直接到这里查看：[stroll.js](http://lab.hakim.se/scroll-effects)
 
 项目地址：[https://github.com/twotoasters/JazzyListView](https://github.com/twotoasters/JazzyListView)
+
+###6、[PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
