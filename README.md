@@ -1,9 +1,15 @@
 
-#Personal Android Open Source Projects
-##Android开源项目收集
+#Personal Android Open Source Projects Collection   
+##-------------- Android开源项目收集
+<br/>
 
-----------
+----------  
 
+<br/>
+
+##一、组件篇
+----
+这一部分主要收集了一些优秀的自定义控件，这些控件弥补了Android SDK的不足，使App更加友好和美观。
 
 ###1、[sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview)
 GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶端的ListView，采用support-v7中的RecyclerView实现
@@ -20,29 +26,6 @@ GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶�
 项目地址[https://github.com/prolificinteractive/material-calendarview](https://github.com/prolificinteractive/material-calendarview)
 
 ![Material Calendar View](http://7xj445.com1.z0.glb.clouddn.com/MaterialCalendarView.gif)
-###3、[EfficientAdapter](https://github.com/StanKocken/EfficientAdapter)
->An efficient adapter to make the use of RecyclerView much easier.
-
-使用这个适配器之后，我们可以只定义ViewHolder，不需要再写Adapter了；我们需要像下面这样定义一个ViewHolder（继承自EfficientAdapter的AbsViewHolder类：
-
-    public class BookViewHolder extends AbsViewHolder<Book> {
-    	public BookViewHolder(View itemView) {  
-			super(itemView); 
-		}
-
-    	@Override
-    	protected void updateView(Context context, Book object) {
-    	    TextView textView = (TextView) findViewByIdEfficient(R.id.title_textview);
-    	    textView.setText(object.getTitle());
-    	}
-	}
-然后就可以设置到RecyclerView中：
-
-	SimpleAdapter adapter = new SimpleAdapter<Plane>(R.layout.item_book, BookViewHolder.class, listOfBooks);
-	recyclerView.setAdapter(adapter);
-做完以上两步就可以了。
-
-项目地址：[https://github.com/StanKocken/EfficientAdapter](https://github.com/StanKocken/EfficientAdapter)
 
 ###4、[android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
 
@@ -89,3 +72,41 @@ It's easy to interact with the Toolbar introduced in Android 5.0 Lollipop and ma
 ![](http://git.oschina.net/zhyihui/android-open-projects/raw/master/screenshots/ObservableScrollView_1.gif)![](http://git.oschina.net/zhyihui/android-open-projects/raw/master/screenshots/ObservableScrollView_2.gif)![](http://git.oschina.net/zhyihui/android-open-projects/raw/master/screenshots/ObservableScrollView_3.gif)![](http://git.oschina.net/zhyihui/android-open-projects/raw/master/screenshots/ObservableScrollView_4.gif)
 
 更多示例动态图片请到该项目的Github主页上查看。
+
+##二、工具库
+----
+该部分主要包括不错的Android开发工具库，这些工具可以或简化我们的开发，或提升App性能，或解决Android版本兼容等。
+###1、[EfficientAdapter](https://github.com/StanKocken/EfficientAdapter)
+>An efficient adapter to make the use of RecyclerView much easier.
+
+使用这个适配器之后，我们可以只定义ViewHolder，不需要再写Adapter了；我们需要像下面这样定义一个ViewHolder（继承自EfficientAdapter的AbsViewHolder类：
+
+    public class BookViewHolder extends AbsViewHolder<Book> {
+    	public BookViewHolder(View itemView) {  
+			super(itemView); 
+		}
+
+    	@Override
+    	protected void updateView(Context context, Book object) {
+    	    TextView textView = (TextView) findViewByIdEfficient(R.id.title_textview);
+    	    textView.setText(object.getTitle());
+    	}
+	}
+然后就可以设置到RecyclerView中：
+
+	SimpleAdapter adapter = new SimpleAdapter<Plane>(R.layout.item_book, BookViewHolder.class, listOfBooks);
+	recyclerView.setAdapter(adapter);
+做完以上两步就可以了。
+
+项目地址：[https://github.com/StanKocken/EfficientAdapter](https://github.com/StanKocken/EfficientAdapter)
+
+###2、[AndroidEventBus](https://github.com/bboyfeiyu/AndroidEventBus)
+>这是一个Android平台的事件总线框架, 它简化了Activity、Fragment、Service等组件之间的交互，很大程度上降低了它们之间的耦合，使得我们的代码更加简洁，耦合性更低，提升我们的代码质量。
+
+相对于AndroidEventBus，或者大家更熟悉greenrobot的[EventBus](https://github.com/greenrobot/EventBus)，一句话概括EventBus就是：EventBus是一个发布 / 订阅的事件总线。
+
+而AndroidEventBus也是这么一个工具库，而且在易用性上表现更为优秀（作者的意思是性能不如EventBugs，但使用更加方便，可以适用更多场景）；AndroidEventBus的作者是中国开发者[bboyfeiyu](https://github.com/bboyfeiyu)，它与EventBus的具体区别处可以参照其Github主页。
+
+项目地址：https://github.com/bboyfeiyu/AndroidEventBus
+
+作者博客：http://www.devtf.cn/
