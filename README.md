@@ -1,7 +1,6 @@
 
 #Personal Android Open Source Projects Collection   
 ##-------------- Android开源项目收集
-<br/>
 
 ----------  
 
@@ -110,3 +109,14 @@ It's easy to interact with the Toolbar introduced in Android 5.0 Lollipop and ma
 项目地址：https://github.com/bboyfeiyu/AndroidEventBus
 
 作者博客：http://www.devtf.cn/
+
+##3、[Netroid](http://netroid.cn/)
+>Netroid是一个基于Volley实现的Android Http库。提供执行网络请求、缓存返回结果、批量图片加载、大文件断点下载的常见Http交互功能。致力于避免每个项目重复开发基础Http功能，实现显著地缩短开发周期的愿景。
+
+Netroid在Volley的基础之后作了简化和扩展，使用还是挺简便的。
+
+详情请参见项目主页或者Github主页的介绍和示例。
+
+项目主页：http://netroid.cn/
+
+Github地址：https://github.com/vince-styling/Netroid
