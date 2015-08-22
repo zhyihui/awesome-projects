@@ -132,3 +132,19 @@ Netroid在Volley的基础之后作了简化和扩展，使用还是挺简便的�
 项目主页：http://netroid.cn/
 
 Github地址：https://github.com/vince-styling/Netroid
+
+###4、[fresco](https://github.com/facebook/fresco)
+
+>Fresco is a powerful system for displaying images in Android applications.
+
+Fresco 是一个强大的图片加载组件。
+
+Fresco 中设计有一个叫做 image pipeline 的模块。它负责从网络，从本地文件系统，本地资源加载图片。为了最大限度节省空间和CPU时间，它含有3级缓存设计（2级内存，1级文件）。
+
+Fresco 中设计有一个叫做 Drawees 模块，方便地显示loading图，当图片不再显示在屏幕上时，及时地释放内存和空间占用。
+
+Fresco 支持 Android2.3(API level 9) 及其以上系统。
+
+项目地址：https://github.com/facebook/fresco
+
+中文文档：http://fresco-cn.org/docs/index.html
