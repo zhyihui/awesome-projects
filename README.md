@@ -72,6 +72,18 @@ It's easy to interact with the Toolbar introduced in Android 5.0 Lollipop and ma
 
 更多示例动态图片请到该项目的Github主页上查看。
 
+###8、[SimpleCropView](https://github.com/IsseiAoki/SimpleCropView)
+A simple image cropping library for Android.
+>The SimpleCropView is an image cropping library for Android.
+It simplify your code for cropping image and provides easily customizable UI.
+Supported on API Level 9 and above.
+
+SimpleCropView是一个优秀的图像裁切工具控件，使用很简单同时支持一定的定制化。
+
+项目地址：[https://github.com/IsseiAoki/SimpleCropView](https://github.com/IsseiAoki/SimpleCropView)
+
+![](http://git.oschina.net/zhyihui/android-open-projects/raw/master/screenshots/SimpleCropView_1.png)
+
 ##二、工具库
 ----
 该部分主要包括不错的Android开发工具库，这些工具可以或简化我们的开发，或提升App性能，或解决Android版本兼容等。
