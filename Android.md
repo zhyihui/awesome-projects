@@ -34,17 +34,6 @@ GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶�
 
 项目地址：[https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
 
-### >>> [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
-
->An interactive indicator to navigate between the different pages of a ViewPager
-
-配合ViewPager使用的Indicator(指示器)，支持ViewPager与Indicator联动；可以定制指示器颜色、Tab字体等属性。
-
-项目地址：[https://github.com/astuetz/PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
-
-![](http://7xj445.com1.z0.glb.clouddn.com/PagerSlidingTabStrip.png) ![](http://7xj445.com1.z0.glb.clouddn.com/PagerSlidingTabStrip_2.png)
-
-
 
 ### >>> [SimpleCropView](https://github.com/IsseiAoki/SimpleCropView)
 A simple image cropping library for Android.
@@ -152,6 +141,16 @@ Advanced dialog solution for android
 
 1. [Material-BottomNavigation](https://github.com/sephiroth74/Material-BottomNavigation)
 2. [BottomNavigationBar](https://github.com/RoyWallace/BottomNavigationBar)
+
+### >>> [MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
+
+作者说 Android 自带的 MaterialEditText 不好用，而且自定义支持不好，因此做了这个控件。
+
+> AppCompat v21 makes it easy to use Material Design EditText in our apps, but it's so limited. If you've tried that, you know what I mean. So I wrote MaterialEditText, the EditText in Material Design, with more features that Google Material Design Spec has introduced.
+
+控件详情参考项目Github主页：[https://github.com/rengwuxian/MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
+
+[中文说明](http://www.rengwuxian.com/post/materialedittext)
 
 
 ##二、工具库

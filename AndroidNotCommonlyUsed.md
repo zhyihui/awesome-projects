@@ -79,3 +79,15 @@ It's easy to interact with the Toolbar introduced in Android 5.0 Lollipop and ma
 ![](http://git.oschina.net/zhyihui/awesome-projects/raw/master/screenshots/ObservableScrollView_1.gif)![](http://git.oschina.net/zhyihui/awesome-projects/raw/master/screenshots/ObservableScrollView_2.gif)![](http://git.oschina.net/zhyihui/awesome-projects/raw/master/screenshots/ObservableScrollView_3.gif)![](http://git.oschina.net/zhyihui/awesome-projects/raw/master/screenshots/ObservableScrollView_4.gif)
 
 更多示例动态图片请到该项目的Github主页上查看。
+
+### >>> [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
+
+**Android Support 中已包含 TabLayout 控件，以后可能就不用第三方控件了**
+
+>An interactive indicator to navigate between the different pages of a ViewPager
+
+配合ViewPager使用的Indicator(指示器)，支持ViewPager与Indicator联动；可以定制指示器颜色、Tab字体等属性。
+
+项目地址：[https://github.com/astuetz/PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
+
+![](http://7xj445.com1.z0.glb.clouddn.com/PagerSlidingTabStrip.png) ![](http://7xj445.com1.z0.glb.clouddn.com/PagerSlidingTabStrip_2.png)
