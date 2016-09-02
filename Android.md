@@ -153,3 +153,11 @@ Advanced dialog solution for android
 
 [中文说明](http://www.rengwuxian.com/post/materialedittext)
 
+
+### >>> [material-dialogs](https://github.com/afollestad/material-dialogs)
+
+> A beautiful, fluid, and customizable dialogs API.
+
+各种material风格的dialog。 漂亮的的、易于使用的和可定制的Dialog API，你能够使用Material designed风格的Dialog到API 8。
+
+![](/screenshots/readmeshowcase.png)
