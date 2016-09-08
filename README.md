@@ -15,6 +15,7 @@
 
 - [Android UI 组件](http://git.oschina.net/zhyihui/awesome-projects/blob/master/Android.md)
 - [Android 工具库](http://git.oschina.net/zhyihui/awesome-projects/blob/master/AndroidLibrary.md)
+- [Android 技术文章及参考资料](http://git.oschina.net/zhyihui/awesome-projects/blob/master/AndroidArticle.md)
 - [不常用 Android 组件和工具库](http://git.oschina.net/zhyihui/awesome-projects/blob/master/AndroidNotCommonlyUsed.md)
 - [其它的一些 Android 相关资源](http://git.oschina.net/zhyihui/awesome-projects/blob/master/AndroidOtherResources.md)
 
