@@ -22,3 +22,14 @@
 ## Javascript
 
 - [Javascript](http://git.oschina.net/zhyihui/awesome-projects/blob/master/Javascript.md)
+
+## 其它
+
+### [flaticon](http://www.flaticon.com/)
+
+一个不错的Flat Icon素材网站，里面已经整理好大量常用的扁平化图标；图标点击后，可以单独下载PNG和SVG格式。
+
+图标支持格式：
+- Webfont 网页字体格式
+- PNG图像格式
+- SVG图像格式
