@@ -30,12 +30,16 @@
 ### [AmazeUI](http://amazeui.org/)
 
 > 中国首个开源 HTML5 跨屏前端框架
+> 
+> 采用国际最前沿的“组件式开发”以及“移动优先”的设计理念，基于其丰富的组件，开发者可通过简单拼装即可快速构建出HTML5网页应用，
 
 ### [Layui](http://www.layui.com/)
 
 > 经典模块化前端框架
+> 
+> Layui 是一款带着浓烈情怀的国产前端UI框架，她追求极简，又不失丰盈的内在，说她是史上最轻量的结晶，似乎并不为过。一切都源自于她对原生态的执着，对前端社区的那些噪杂声音的过滤，以及她本身的精心雕琢。
 
-- 演示:[http://www.layui.com/demo/](http://www.layui.com/demo/)
+- 演示：[http://www.layui.com/demo/](http://www.layui.com/demo/)
 - 文档：[http://www.layui.com/doc/](http://www.layui.com/doc/)
 
 ## 其它
