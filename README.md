@@ -13,6 +13,8 @@
 
 ## Android
 
+由于收集的Android开源项目比较众多，而且UI组件部分一般需要放张效果图，因此将此部分拆分为多个文档。
+
 - [Android UI 组件](http://git.oschina.net/zhyihui/awesome-projects/blob/master/Android.md)
 - [Android 工具库](http://git.oschina.net/zhyihui/awesome-projects/blob/master/AndroidLibrary.md)
 - [Android 技术文章及参考资料](http://git.oschina.net/zhyihui/awesome-projects/blob/master/AndroidArticle.md)
@@ -22,6 +24,19 @@
 ## Javascript
 
 - [Javascript](http://git.oschina.net/zhyihui/awesome-projects/blob/master/Javascript.md)
+
+## HTML/CSS
+
+### [AmazeUI](http://amazeui.org/)
+
+> 中国首个开源 HTML5 跨屏前端框架
+
+### [Layui](http://www.layui.com/)
+
+> 经典模块化前端框架
+
+- 演示:[http://www.layui.com/demo/](http://www.layui.com/demo/)
+- 文档：[http://www.layui.com/doc/](http://www.layui.com/doc/)
 
 ## 其它
 
