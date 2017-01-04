@@ -21,9 +21,32 @@
 - [不常用 Android 组件和工具库](http://git.oschina.net/zhyihui/awesome-projects/blob/master/AndroidNotCommonlyUsed.md)
 - [其它的一些 Android 相关资源](http://git.oschina.net/zhyihui/awesome-projects/blob/master/AndroidOtherResources.md)
 
-## Javascript
+## JavaScript
 
-- [Javascript](http://git.oschina.net/zhyihui/awesome-projects/blob/master/Javascript.md)
+- [JavaScript项目](http://git.oschina.net/zhyihui/awesome-projects/blob/master/Javascript.md)
+
+### [mojs](http://mojs.io/)
+
+这是一个基于JS的动画效果库，可以创造出一些动作曲线稍微复杂点的动效，而且是模块化的。
+
+> motion graphics toolbelt for the web.
+
+> This is a js based motion library, can help make lots of complicated motion effect.
+
+Github：[mojs](https://github.com/legomushroom/mojs)
+
+### [Lodash](https://lodash.com/)
+
+lodash一开始是Underscore.js库的一个fork，之后，该项目在现有成功的基础之上取得了更大的成果。lodash主要使用了延迟计算，使得lodash其性能远远超过Underscore。
+
+> A modern JavaScript utility library delivering modularity, performance & extras.
+
+>Lodash makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc.
+
+>Lodash’s modular methods are great for:
+- Iterating arrays, objects, & strings
+- Manipulating & testing values
+- Creating composite functions
 
 ## HTML/CSS
 
